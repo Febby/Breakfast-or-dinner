@@ -191,7 +191,7 @@ p {
   z-index: 100;
   position: fixed;
   right: 25px;
-  top: 30px;
+  top: 25px;
 }
 
 .theme-switch-wrapper span {
@@ -200,6 +200,7 @@ p {
 }
 
 .toggle-text {
+  font-family: 'Ovo', sans-serif;
   position: relative;
   top: -4px;
   right: 5px;
